@@ -1,0 +1,9 @@
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\x86\Debug\MultiplayerGame.dll
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\x86\Debug\MultiplayerGame.pdb
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\x86\Debug\Lidgren.Network.Xna.dll
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\x86\Debug\MultiplayerGame.dll
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\x86\Debug\MultiplayerGame.pdb
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\bin\x86\Debug\Content\Rectangle.xnb
+C:\Users\rmatton\Desktop\Research\C Sharp\MultiplayerGame\MultiplayerGame\MultiplayerGame\obj\x86\Debug\MultiplayerGame.csprojResolveAssemblyReference.cache
